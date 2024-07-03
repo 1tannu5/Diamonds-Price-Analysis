@@ -1,1 +1,6 @@
 # Diamonds-Price-Analysis
+The diamonds dataset contains 53,940 entries with 11 features: carat, cut, color, clarity, depth, table, price, and dimensions (x, y, z). In our exploratory data analysis, we first examined the structure and contents of the dataset. We visualized the distributions of numerical variables (carat, depth, table, price, x, y, z) and found that most distributions were right-skewed, indicating a concentration of smaller values. The depth and table percentages were approximately normally distributed.
+
+For categorical variables (cut, color, clarity), we plotted their distributions, revealing that the most common cut is "Ideal," the most frequent color is "G," and the most prevalent clarity grade is "SI1." These insights help us understand the characteristics and quality grades of the diamonds in the dataset.
+
+We planned to further explore the relationships between price and other features using scatter plots and box plots, but technical limitations prevented us from completing this step. The initial visualizations provide a comprehensive overview of the dataset, highlighting key patterns and distributions, which are crucial for further analysis and model development.
